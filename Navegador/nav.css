@@ -1,0 +1,92 @@
+
+/*nav {
+  background-color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  justify-content:flex-start;
+  align-items: center;
+  width: 244px;
+  height: 2481px;
+  gap: 70px;
+}
+
+.nav__column-up{
+  margin-top: 50px;
+}
+
+.nav__column-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-left: 120px;
+  width: 220px;
+  height: 448px;
+  font-family: "roboto";
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.home{
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.search{
+  font-size: 15px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.explore{
+  font-size: 15px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.reels{
+  font-size: 15px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.messages{
+ font-size: 15px;
+ line-height: 24px;
+ font-weight: 400;
+}
+
+.notifications{
+ font-size: 15px;
+ line-height: 24px;
+ font-weight: 400;
+}
+
+.create{
+ font-size: 15px;
+ line-height: 24px;
+ font-weight: 400;
+}
+
+.profile{
+ font-size: 15px;
+ line-height: 24px;
+ font-weight: 400;
+}
+
+.more{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 15px;
+}
+
+.icons{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 15px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}*/
